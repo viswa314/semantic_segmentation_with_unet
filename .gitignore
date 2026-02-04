@@ -1,0 +1,28 @@
+# Deep Learning Artifacts
+checkpoints/
+checkpoints_rgbd/
+*.pth
+*.onnx
+*.weights
+
+# Training Logs
+*.log
+training.log
+
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Results
+inference_results/
+inference_results_rgbd/
+
+# IDEs
+.vscode/
+
+# OS
+.DS_Store
