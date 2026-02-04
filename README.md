@@ -2,6 +2,10 @@
 
 A PyTorch implementation of U-Net architecture for semantic segmentation of RGB-D images, designed for datasets like Cityscapes with optional depth information.
 
+## 📺 Demonstration
+[![Click to Watch](https://img.shields.io/badge/▶_Watch_Demo-blue?style=for-the-badge&logo=youtube)](media/Task%207.webm)
+*U-Net performing semantic segmentation on RGB-D input. (Click badge to view)*
+
 ## 📋 Project Overview
 
 This project implements a U-Net-based semantic segmentation model that can process both RGB (3-channel) and RGB-D (4-channel with depth) images. The architecture features an encoder-decoder structure with skip connections, optimized for pixel-wise classification tasks.
